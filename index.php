@@ -35,7 +35,11 @@
                 Contact
             </a>
         </li>
-
+        <li class="nav-item">
+            <a class="nav-link" href="Register.php">
+                Register
+            </a>
+        </li>
     </ul>
 
 </nav>
